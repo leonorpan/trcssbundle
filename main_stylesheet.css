@@ -666,36 +666,36 @@ li {
 }
 @font-face {
  font-family:DINNextLTPro;
- src:url(/_nuxt/fonts/DINNextLTPro-Regular.4dd622b.woff) format("woff"),
- url(/_nuxt/fonts/DINNextLTPro-Regular.c93010a.woff2) format("woff2");
+ src:url(https://traderepublic.com/_nuxt/fonts/DINNextLTPro-Regular.4dd622b.woff) format("woff"),
+ url(https://traderepublic.com/_nuxt/fonts/DINNextLTPro-Regular.c93010a.woff2) format("woff2");
  font-weight:400;
  font-display:swap
 }
 @font-face {
  font-family:DINNextLTPro;
- src:url(/_nuxt/fonts/DINNextLTPro-Medium.7928ea6.woff) format("woff"),
- url(/_nuxt/fonts/DINNextLTPro-Medium.49d49e5.woff2) format("woff2");
+ src:url(https://traderepublic.com/_nuxt/fonts/DINNextLTPro-Medium.7928ea6.woff) format("woff"),
+ url(https://traderepublic.com/_nuxt/fonts/DINNextLTPro-Medium.49d49e5.woff2) format("woff2");
  font-weight:500;
  font-display:swap
 }
 @font-face {
  font-family:DINNextLTPro;
- src:url(/_nuxt/fonts/DINNextLTPro-Bold.ac8e1e0.woff) format("woff"),
- url(/_nuxt/fonts/DINNextLTPro-Bold.e97cd32.woff2) format("woff2");
+ src:url(https://traderepublic.com/_nuxt/fonts/DINNextLTPro-Bold.ac8e1e0.woff) format("woff"),
+ url(https://traderepublic.com/_nuxt/fonts/DINNextLTPro-Bold.e97cd32.woff2) format("woff2");
  font-weight:700;
- font-display:swap
+ font-display:swap;
 }
 .h1,
 h1 {
  font-size:4.8rem;
  line-height:1;
- font-weight:700
+ font-weight:700;
 }
 @media(min-width:768px) {
  .h1,
  h1 {
   font-size:5.6rem;
-  line-height:.94
+  line-height:.94;
  }
 }
 @media(min-width:1024px) {
